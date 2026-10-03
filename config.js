@@ -1,7 +1,7 @@
 // config.js - Edit this file to customize the website
 
 const bdayData = {
-     name: "Rinka",
+    name: "Rinka",
     age: "20", // Change to her actual age if you want!
     themeColor: "#ff00ff", 
     landingGreeting: "HAPPY BIRTHDAY...", 
@@ -16,7 +16,7 @@ const bdayData = {
 
     // Paths to your images (create a folder named 'assets' and put images there)
     images: [
-        "https://via.placeholder.com/300x300/ff00ff/000000?text=Pic+1",
+        "mine.jpeg",
         "https://via.placeholder.com/300x300/00ffff/000000?text=Pic+2"
     ]
 };

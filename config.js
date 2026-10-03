@@ -1,10 +1,10 @@
 // config.js - Edit this file to customize the website
 
 const bdayData = {
-    name: "Alex",
-    age: "21",
-    themeColor: "#ff00ff", // Neon pink
-    landingGreeting: "VIBE CHECK...",
+     name: "Rinka",
+    age: "20", // Change to her actual age if you want!
+    themeColor: "#ff00ff", 
+    landingGreeting: "HAPPY BIRTHDAY...", 
     mainHeading: "MAIN CHARACTER ENERGY ✨",
     
     // Array of wishes from friends
